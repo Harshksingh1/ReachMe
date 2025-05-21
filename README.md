@@ -27,7 +27,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any questions or feedback, feel free to contact me at [rohit.varshney.glau@gmail.com](mailto:rohit.varshney.glau@gmail.com).
+For any questions or feedback, feel free to contact me at [rohit.varshney.glau@gmail.com](mailto:harshksingh2021@gmail.com).
 
 ## Screenshots
 
